@@ -1,6 +1,11 @@
 #include <iostream>
 
 using namespace std;
+/*Start from bottom -> the top
+which is heavier in value will 
+get down to the bottom. And lighter 
+go to the top
+*/
 
 void swap(int inputArray[], int location1, int location2)
 {
